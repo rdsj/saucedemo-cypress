@@ -1,0 +1,7 @@
+{
+  "name": "cypress-saucedemo",
+  "packageManager": "yarn@4.4.1",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
